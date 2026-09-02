@@ -101,6 +101,28 @@ Também foi abordada a comparação entre diferentes plataformas utilizadas em p
 
 ---
 
+### 📔 Aula 05 — Pipeline de Integração Contínua
+
+Nesta aula o foco foi aprofundar o conceito de **Pipeline de Integração Contínua**, detalhando cada uma das suas etapas e apresentando como o GitHub Actions é utilizado para automatizá-las.
+
+Entre os principais assuntos:
+
+- 🔗 Estrutura de uma Pipeline
+- 🏗️ Pipeline de Build
+- 🧪 Pipeline de Testes
+- ✅ Pipeline de Qualidade
+- 🔒 Pipeline de Segurança
+- 📦 Pipeline de Artefatos (Package)
+- 🚀 Pipeline de Deploy
+- 🏷️ Pipeline de Release e Monitoramento
+- 🐙 GitHub Actions e GitHub Actions Marketplace
+
+Também foi apresentado um exemplo prático de pipeline com GitHub Actions e proposta uma atividade envolvendo a escolha de 3 Actions do Marketplace.
+
+👉 **[Acessar resumo e atividades da Aula 05](https://github.com/rafamans4no/AtividadesDevOps/blob/main/Aula05/README.md)**
+
+---
+
 # 🗂️ Estrutura do Repositório
 
 ```text
@@ -118,4 +140,8 @@ AtividadesDevOps/
 ├── 📁 Aula04/
 │   └── 📄 README.md
 │
+├── 📁 Aula05/
+│   └── 📄 README.md
+│
 └── 📄 README.md
+```
