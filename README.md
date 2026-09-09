@@ -4,6 +4,9 @@ Repositório destinado às atividades, estudos e conteúdos desenvolvidos durant
 
 ---
 
+## Repositório das Atividades
+**🔗 Repositório:** https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main
+
 ## 👨‍🏫 Informações da Disciplina
 
 **Professor:** Deivison S. Takatu  
