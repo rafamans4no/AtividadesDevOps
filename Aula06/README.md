@@ -14,7 +14,7 @@ Esta aula teve caráter de revisão, retomando e consolidando os principais conc
 - **OPERATE (Operação):** manutenção da estabilidade, disponibilidade e escalabilidade da aplicação em produção, com infraestrutura gerenciada como código.
 - **MONITOR (Monitoramento):** fecha o ciclo, coletando métricas, logs e traces para detectar anomalias e alimentar o próximo ciclo de planejamento com dados reais.
 
-## Estrutura de Pipeline (revisão)
+## Estrutura de Pipeline
 
 Uma pipeline é uma sequência de validações automatizadas executadas durante o ciclo de entrega do software, seguindo três regras principais:
 
