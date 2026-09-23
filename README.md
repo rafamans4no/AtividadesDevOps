@@ -44,15 +44,11 @@ Confira abaixo os conteúdos e atividades desenvolvidos em cada aula:
 
 Introdução aos conceitos iniciais da disciplina e aos fundamentos de DevOps.
 
-👉 Acessar resumo e atividades da Aula 01
-
 ### 📗 Aula 02 — Conceitos de Integração e Entrega Contínua
 
 Nesta aula foram estudados os principais conceitos de DevOps, CI, Continuous Delivery e Continuous Deployment, além de versionamento, Git, Tags e Deploy.
 
 Também foram abordados conceitos como Semantic Versioning (MAJOR.MINOR.PATCH) e a utilização do GitHub para controle de versões.
-
-👉 Acessar resumo e atividades da Aula 02
 
 ### 📙 Aula 03 — Gerência de Configuração
 
@@ -67,8 +63,6 @@ Também foram estudados:
 - 📁 Estrutura de projetos
 - 🌐 GitHub e Vercel
 - 🔎 Pesquisa e utilização de templates
-
-👉 Acessar resumo e atividades da Aula 03
 
 ### 📕 Aula 04 — Ferramentas de Integração e Entrega Contínua
 
@@ -89,8 +83,6 @@ Entre os principais assuntos:
 
 Também foi abordada a comparação entre diferentes plataformas utilizadas em processos de Integração Contínua e Entrega/Implantação Contínua.
 
-👉 Acessar resumo e atividades da Aula 04
-
 ### 📔 Aula 05 — Pipeline de Integração Contínua
 
 Nesta aula o foco foi aprofundar o conceito de Pipeline de Integração Contínua, detalhando cada uma das suas etapas e apresentando como o GitHub Actions é utilizado para automatizá-las.
@@ -109,8 +101,6 @@ Entre os principais assuntos:
 
 Também foi apresentado um exemplo prático de pipeline com GitHub Actions e proposta uma atividade envolvendo a escolha de 3 Actions do Marketplace.
 
-👉 Acessar resumo e atividades da Aula 05
-
 ### 📓 Aula 06 — Revisão Ferramentas e Pipelines
 
 Aula de revisão dos principais conceitos estudados sobre DevOps, Pipelines e GitHub Actions, com proposta de uma atividade prática de integração de pipeline a um projeto e análise comparativa de pipelines reais encontradas no GitHub.
@@ -125,8 +115,6 @@ Entre os principais assuntos:
 - ⚙️ Gatilhos (workflows): push, pull request, releases e tags
 
 Foi proposta uma atividade dividida em duas partes: (1) integrar uma pipeline ao projeto via GitHub Actions, disparada por push na branch `main`; e (2) buscar e analisar pelo menos três repositórios no GitHub com pipelines integradas, destacando características, funcionalidades, gatilhos e histórico.
-
-👉 Acessar resumo e atividades da Aula 06
 
 ### 🧪 Aula 07 — Testes Automatizados
 
@@ -144,9 +132,9 @@ Entre os principais assuntos:
 
 Foi proposta uma atividade prática para criar um projeto integrando os três tipos de testes (unitário, integração e performance) de forma independente e configurar uma pipeline de CI no GitHub Actions em um arquivo `.yml` executada automaticamente a cada `push` na branch `main`.
 
-👉 Acessar resumo e atividades da Aula 07
+# 🗂️ Estrutura do Repositório
 
-## 🗂️ Estrutura do Repositório
+```
 AtividadesDevOps/
 │
 ├── 📁 Aula01/
@@ -171,3 +159,4 @@ AtividadesDevOps/
 │   └── 📄 README.md
 │
 └── 📄 README.md
+```
