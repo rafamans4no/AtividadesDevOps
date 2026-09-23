@@ -158,5 +158,8 @@ AtividadesDevOps/
 ├── 📁 Aula07/
 │   └── 📄 README.md
 │
+├── 📁 Aula08/
+│   └── 📄 README.md
+│
 └── 📄 README.md
 ```
