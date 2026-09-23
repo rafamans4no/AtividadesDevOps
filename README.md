@@ -8,9 +8,9 @@ Repositório destinado às atividades, estudos e conteúdos desenvolvidos durant
 
 ## 👨‍🏫 Informações da Disciplina
 
-**Professor:** Deivison S. Takatu
-**Instituição:** Fatec Sorocaba
-**Curso:** Análise e Desenvolvimento de Sistemas
+**Professor:** Deivison S. Takatu  
+**Instituição:** Fatec Sorocaba  
+**Curso:** Análise e Desenvolvimento de Sistemas  
 
 ## 📚 Sobre a matéria
 
@@ -128,9 +128,25 @@ Foi proposta uma atividade dividida em duas partes: (1) integrar uma pipeline ao
 
 👉 Acessar resumo e atividades da Aula 06
 
-## 🗂️ Estrutura do Repositório
+### 🧪 Aula 07 — Testes Automatizados
 
-```
+Nesta aula o foco foi compreender a importância da automação de testes dentro de uma pipeline de CI/CD para garantir a qualidade, estabilidade e confiabilidade das entregas.
+
+Entre os principais assuntos:
+
+- 🧪 Importância e motivos para automatizar testes
+- 🔗 Pipelines de Testes e Pipelines de Qualidade
+- 🧩 **Testes Unitários:** validação isolada de funções e métodos
+- ⚙️ **Testes de Integração:** verificação da comunicação entre módulos e APIs
+- ⏱️ **Testes de Performance:** avaliação de tempo de resposta, escalabilidade e comportamento sob carga
+- 🛡️ **Qualidade do Código:** análise estática e padronização utilizando ferramentas como ESLint
+- ⛔ **Comportamento de Falha:** interrupção imediata da pipeline ao detectar erros no código ou em testes
+
+Foi proposta uma atividade prática para criar um projeto integrando os três tipos de testes (unitário, integração e performance) de forma independente e configurar uma pipeline de CI no GitHub Actions em um arquivo `.yml` executada automaticamente a cada `push` na branch `main`.
+
+👉 Acessar resumo e atividades da Aula 07
+
+## 🗂️ Estrutura do Repositório
 AtividadesDevOps/
 │
 ├── 📁 Aula01/
@@ -151,5 +167,7 @@ AtividadesDevOps/
 ├── 📁 Aula06/
 │   └── 📄 README.md
 │
+├── 📁 Aula07/
+│   └── 📄 README.md
+│
 └── 📄 README.md
-```
