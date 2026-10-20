@@ -152,8 +152,6 @@ Entre os principais assuntos:
 
 Foi proposta uma atividade dividida em duas partes: (1) escolher um projeto de software e elaborar sua documentação, apresentando objetivo, problema, escopo, requisitos funcionais e não funcionais, tecnologias, arquitetura e organização dos componentes; e (2) criar ou atualizar o `README.md` do repositório no GitHub, incluindo pré-requisitos, instalação, configuração e execução, além de APIs, banco de dados, variáveis de ambiente e procedimentos de testes e deploy, quando aplicável.
 
-📄 Resumo completo: [Aula09/README.md](./Aula09/README.md)
-
 # 🗂️ Estrutura do Repositório
 
 ```
