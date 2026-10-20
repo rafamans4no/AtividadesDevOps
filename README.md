@@ -33,6 +33,7 @@ Durante as aulas, são estudados conceitos como:
 - 🔄 Pipelines
 - 🧪 Testes automatizados
 - 🚀 Deploy e monitoramento
+- 📝 Documentação de software
 
 A proposta é compreender não apenas as ferramentas, mas também como elas se conectam durante o ciclo de desenvolvimento de um software.
 
@@ -132,6 +133,27 @@ Entre os principais assuntos:
 
 Foi proposta uma atividade prática para criar um projeto integrando os três tipos de testes (unitário, integração e performance) de forma independente e configurar uma pipeline de CI no GitHub Actions em um arquivo `.yml` executada automaticamente a cada `push` na branch `main`.
 
+### 📝 Aula 09 — Documentação de Software
+
+Nesta aula o foco foi compreender a importância da documentação em projetos DevOps, de modo que qualquer pessoa consiga entender e executar o projeto a partir do repositório no GitHub, sem depender de explicações informais da equipe.
+
+Entre os principais assuntos:
+
+- 📖 **Definição:** conjunto de informações que ajuda a compreender, utilizar, desenvolver, testar e manter um sistema
+- 🎯 **Por que documentar:** comunicação, manutenção, colaboração e continuidade
+- ⚠️ **Riscos sem documentação:** dependência de pessoas, dificuldade para novos integrantes, conhecimento perdido e perguntas repetitivas
+- 🔄 **Documentação e DevOps:** registro de como o código é desenvolvido, validado, integrado (pipeline) e implantado
+- 👥 **Quem utiliza:** Dev, Tester, DevOps, Gestor e Usuário
+- 🧩 **Combinação de áreas:** Engenharia de Software, Gestão de Projetos, DevOps, Segurança, Qualidade (QA) e Produto/UX
+- 🗂️ **Tipos de documentação:** técnica, de projeto e de processo
+- 🐙 **README no GitHub:** propósito, tecnologias e pré-requisitos, instalação e execução, configuração e variáveis, testes e estrutura do projeto
+- 🔗 **Documentação do processo DevOps:** Git, Pull Request, Build, Testes, Pipeline CI/CD e Deploy
+- 🔒 **O que NÃO colocar:** senhas, credenciais, chaves de API, tokens, dados sensíveis, arquivos `.env` e informações restritas de infraestrutura
+
+Foi proposta uma atividade dividida em duas partes: (1) escolher um projeto de software e elaborar sua documentação, apresentando objetivo, problema, escopo, requisitos funcionais e não funcionais, tecnologias, arquitetura e organização dos componentes; e (2) criar ou atualizar o `README.md` do repositório no GitHub, incluindo pré-requisitos, instalação, configuração e execução, além de APIs, banco de dados, variáveis de ambiente e procedimentos de testes e deploy, quando aplicável.
+
+📄 Resumo completo: [Aula09/README.md](./Aula09/README.md)
+
 # 🗂️ Estrutura do Repositório
 
 ```
@@ -159,6 +181,9 @@ AtividadesDevOps/
 │   └── 📄 README.md
 │
 ├── 📁 Aula08/
+│   └── 📄 README.md
+│
+├── 📁 Aula09/
 │   └── 📄 README.md
 │
 └── 📄 README.md
